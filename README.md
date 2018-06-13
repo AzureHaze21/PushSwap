@@ -1,2 +1,2 @@
 # PushSwap
-Learning data sorting, yes, but also as quickly as possible!
+Inefficient data sorting algorithm
